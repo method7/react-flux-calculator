@@ -1,6 +1,9 @@
 # Web Calculator based on the Flux TodoMVC Example
 
-> An application architecture for React utilizing a unidirectional data flow.
+> Flux is An application architecture for React utilizing a unidirectional data flow.
+> Built as a skills test for a potential client who requested a "Web calculator built using Facebooks React.js" I was quite pleased with it but never heard from them again.
+> Two days R&D fell into the recruitment black hole - all credit to Mel from Mosaic Island and MixRadio.
+> Contributions / feedback are welcome.
 
 
 ## Running
